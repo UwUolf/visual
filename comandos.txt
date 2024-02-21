@@ -1,0 +1,16 @@
+Comandos de terminal:
+
+pwd - "print working directory" imprime el directorio en el que se está trabajando
+touch - sirve para crear nuevos archivos
+mkdir - sirve para crear nuevas carpetas
+ls - "list - lista" los archivos y carpetas del directorio actual 
+  ls -l lista los detalles de archivos y carpetas
+  ls -a lista TODOS los archivos y carpetas, incluyendo los ocultos
+  ls -la lista los detalles de TODOS los archivos y carpetas, incluyendo los ocultos
+clear - limpia la pantalla de la terminal
+cd *nombre del nuevo directorio* - "change directory" permite cambiar de directorio
+  cd .. - permite subir un nivel a la carpeta anterior, para subir más niveles se usa cd ../ ..
+  cd / - la diagonal indica la raíz de tu disco duro
+  cd ~ - la tilde indica el directorio home el usuario actual
+rm - "remove" sirve para eliminar archivos
+  rm -r sirve para eliminar carpetas junto con su contenido

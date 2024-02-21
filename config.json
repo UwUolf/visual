@@ -1,0 +1,11 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "git.autofetch": true,
+  "hediet.vscode-drawio.resizeImages": null,
+  "workbench.colorTheme": "Monokai Dimmed",
+  "window.restoreWindows": "none",
+  "files.autoSave": "onFocusChange",
+  "editor.wordWrap": "on",
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2
+}
